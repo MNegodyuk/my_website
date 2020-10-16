@@ -93,7 +93,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Curriculum Vitae (CV)"
-      subtitle = ""
+      #subtitle = ""
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
@@ -103,29 +103,29 @@ disqusShortname = ""
       image = "pic02.jpg"
       url = "blogs/tempus"
 
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+    #[[params.tiles.showcase]]
+      #title = "Magna"
+      #subtitle = "Lorem Etiam Nullam"
+      #image = "pic03.jpg"
+      #url = "blogs/magna"
 
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+      #title = "Ipsum"
+      #subtitle = "Nisl Sed Aliquam"
+      #image = "pic04.jpg"
+      #url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+      #title = "Consequat"
+      #subtitle = "Ipsum Dolor Sit Amet"
+      #image = "pic05.jpg"
+      #url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+      #title = "Etiam"
+      #subtitle = "Feugiat Amet Tempus"
+      #image = "pic06.jpg"
+      #url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -212,10 +212,10 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com/mnegodyuk"
+      url= "https://www.linkedin.com/in/mnegodyuk"
       label = "LinkedIn"
 
-    [[params.footer.quicklinks]]
-      text = ""
-      url= ""
-      alt = ""
+    #[[params.footer.quicklinks]]
+     # text = ""
+     # url= ""
+     # alt = ""
