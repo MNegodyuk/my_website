@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Curriculum Vitae (CV)"
       #subtitle = ""
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/aliquam/Mark_Negodyuk_CV.pdf"
 
     [[params.tiles.showcase]]
       title = "Tempus"
