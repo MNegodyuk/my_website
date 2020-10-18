@@ -67,14 +67,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Explore"
-      url = "blogs"
+   # [[params.navigation.button1]]
+    #  name = "Explore"
+     # url = "blogs"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+   # [[params.navigation.button2]]
+     # name = "Log In"
+     # url = "#"
 
 
   # Banner section
@@ -93,15 +93,15 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Curriculum Vitae (CV)"
-      #subtitle = ""
+      subtitle = "Skills & Experience"
       image = "pic01.jpg"
-      url = "blogs/aliquam/Mark_Negodyuk_CV.pdf"
+      url = "blogs/CV/Mark_Negodyuk_CV.pdf"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Hong Kong Housing"
+      subtitle = "Exploring Airbnb Prices in Hong Kong"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/project1"
 
     #[[params.tiles.showcase]]
       #title = "Magna"
