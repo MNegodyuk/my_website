@@ -49,7 +49,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Finance & Economics"
-      url = "blogs"
+      url = "projects"
 
     #[[params.navigation.links]]
       #name = "Generic Blog"

@@ -1,14 +1,12 @@
 ---
 categories:
-date: "2020-10-19"
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
 description: Exploring Airbnb prices in Hong Kong.
 draft: false
 image: pic11.jpg
 keywords: ""
-slug: aliquam
+slug: project1
 title: Hong Kong Housing
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
