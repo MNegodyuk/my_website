@@ -1,0 +1,14 @@
+---
+categories:
+date: "2020-10-19"
+description: Exploring Airbnb prices in Hong Kong.
+draft: false
+image: pic11.jpg
+keywords: ""
+slug: aliquam
+title: Hong Kong Housing
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
