@@ -8,22 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hong Kong Housing</title>
+      <link>/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/project1/</guid>
+      <description>hk_listings &amp;lt;- vroom(&amp;quot;http://data.insideairbnb.com/china/hk/hong-kong/2020-06-15/data/listings.csv.gz&amp;quot;)Exploratory Data Analysis (EDA)At first glance, there are 11187 observations of 106 variables in the data set. To improve efficiency, we carefully went through the list and selected 28 variables that we believe are most relevant to the following analysis.
+glimpse(hk_listings)## Rows: 11,187## Columns: 106## $ id &amp;lt;dbl&amp;gt; 69074, 75083, 103760, ...## $ listing_url &amp;lt;chr&amp;gt; &amp;quot;https://www.airbnb.co...## $ scrape_id &amp;lt;dbl&amp;gt; 2.</description>
+    </item>
+    
+    <item>
       <title>Project 2</title>
       <link>/projects/project2/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/project2/</guid>
       <description>Youth Risk Behavior SurveillanceEvery two years, the Centers for Disease Control and Prevention conduct the Youth Risk Behavior Surveillance System (YRBSS) survey, where it takes data from high schoolers (9th through 12th grade), to analyze health patterns. We will work with a selected group of variables from a random sample of observations during one of the years the YRBSS was conducted.
 Load the dataThis data is part of the openintro textbook and we can load and inspect it.</description>
-    </item>
-    
-    <item>
-      <title>Hong Kong Housing</title>
-      <link>/projects/project1/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/projects/project1/</guid>
-      <description></description>
     </item>
     
   </channel>

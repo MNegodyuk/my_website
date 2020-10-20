@@ -1,9 +1,9 @@
 ---
 title: "Project 2"
 description: "Exploring the health of the youth, IMDB movie ratings & Pay discrimination"
-image: pic12.jpg
+image: pic05.jpg
 author: "Group A8 (Benedikt Jaletzke, Stanislav Makarov, Mark Negodyuk, Olivia Zhang, Tom Tian, Kateryna Tarasova)"
-date: "`r Sys.Date()`"
+date: "2014"
 output:
   html_document:
     theme: flatly
